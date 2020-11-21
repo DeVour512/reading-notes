@@ -1,1 +1,1 @@
-
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.screwtheninetofive.com%2Fwp-content%2Fuploads%2F2020%2F01%2FBlog-Jan-9_-Featured.png&imgrefurl=https%3A%2F%2Fwww.screwtheninetofive.com%2Fdifferences-between-growth-and-fixed-mindset%2F&tbnid=iqMTTPzpONBc1M&vet=12ahUKEwjvkZnh1JLtAhVzmJ4KHQS0CY4QMygAegUIARDVAQ..i&docid=nyBAABpDUw-XbM&w=1441&h=1024&q=mindset&ved=2ahUKEwjvkZnh1JLtAhVzmJ4KHQS0CY4QMygAegUIARDVAQ)
