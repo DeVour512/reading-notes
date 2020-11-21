@@ -2,14 +2,14 @@
 
 # What is growth mindset to me?
 To me growth mindset to me is prevent a memory block. I also 
-text __text__ text text text text *text* text text text text text text text text
+text **text** text text text text *text* text text text text text text text text
 
 ## Growth Mindset
-text text text text text text text text text text text text text text text text text text text text
--text text text text text text text text text text
--text text text text text text text text text text
--text text text text text text text text text text
--text text text text text text text text text text
+text text text text text
+- text text text text text text text text text text
+- text text text text text text text text text text
+- text text text text text text text text text text
+- text text text text text text text text text text
 
 ## Fixed Mindset
 text text text text text text text
